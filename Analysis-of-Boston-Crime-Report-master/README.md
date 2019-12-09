@@ -22,3 +22,14 @@ To make census requests using crime locations, see Crime_Geocode.pynb
 Using the Crime_Location_Data.txt document produced by the above python script, the Get_Census_Survey_Data.R scipt may be used to collect response data from the 2015 ACS survey for the Census Tracts in Crime_Location_Data.txt, producing a csv titled Boston_Census_4_Join.csv.
 
 After this is done, the Census_Data_Merge.R script merges the Original Dataset, Boston_Crime_Data.csv, with Boston_Census_4_Join.csv to produce the final merged document of the two datasets, which is titled Merged_Census_Crime_Data.csv. 
+
+
+## Primary investigation 
+
+In order to deploy the primary investigation, run the boston.R which will make the label ("level_of_violation") and will make several ggplots which shows the crime Trend of Friday Data and Decision Rule Segregation of WeekDays and WeekEnds Crime Rule. The Decision Rule will clearly able to tell that the strong violated crime infected Day which is Friday Belongs to the Weekdays Decision Rule which has a different Probability from the Weekends crime Rule.
+
+### Prediction Model on python
+
+User needs to run the crime_prediction.ipynb which will tell about the prediction model (decision Tree) and later it will show the feature clustering through support vetor machine classifier with both linear and rbf kernel.
+
+
