@@ -33,13 +33,23 @@ User needs to run the crime_prediction.ipynb which will tell about the predictio
 
 ### References
 
-[1] Boston DataSet From Kaggle : https://www.kaggle.com/AnalyzeBoston/crimes-in-boston#crime.csv
+[1] Antonovics, K., & Knight, B. G. (2009). A new look at racial profiling: Evidence from the Boston Police Department. The Review of Economics and Statistics, 91(1), 163-177.
 
-[2] Decision Tree Classifier : http://benalexkeen.com/decision-tree-classifier-in-python-using-scikit-learn/
+[2] Boston DataSet From Kaggle : https://www.kaggle.com/AnalyzeBoston/crimes-in-boston#crime.csv
 
-[3] Python Data Science Handbook: http://shop.oreilly.com/product/0636920034919.do
+[3] Brownlee, Jason. 2019. https://machinelearningmastery.com/prepare-data-machine-learning-python-scikit-learn/.
 
-[4] MIT Open Course ware support Vector Machines : https://www.youtube.com/watch?v=_PwhiWxHK8o
+[4] Chen, Tianqi, and Carlos Guestrin. 2016. \Xgboost:A Scalable Tree Boosting System." Proceedings of the 22nd Acm Sigkdd International Conference on Knowledge Discovery and Data Mining, 785{94.
+
+[5] Decision Tree Classifier : http://benalexkeen.com/decision-tree-classifier-in-python-using-scikit-learn/
+
+[6] Python Data Science Handbook: http://shop.oreilly.com/product/0636920034919.do
+
+[7] Pedregosa, F., G. Varoquaux, A. Gramfort, V. Michel,B. Thirion, O. Grisel, M. Blondel, et al. 2011. \Scikit-Learn: Machine Learning in Python." Journal of Machine Learning Research 12: 2825{30.
+
+[8] MIT Open Course ware support Vector Machines : https://www.youtube.com/watch?v=_PwhiWxHK8o
+
+[9] Team, R Core, and others. 2013. \R: A Language and Environment for Statistical Computing."Wiessies, Kathleen. 2019. https://libguides.lib.msu.edu/tracts.2019. https://towardsdatascience.com/data-preprocessing-in-python-b52b652e37d5.
 
 
 
