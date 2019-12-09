@@ -29,3 +29,17 @@ In order to deploy the primary investigation, run the boston.R which will make t
 ## Prediction Model on python
 
 User needs to run the crime_prediction.ipynb which will tell about the prediction model (decision Tree) and later it will show the feature clustering through support vetor machine classifier with both linear and rbf kernel.
+
+
+### References
+
+[1] Boston DataSet From Kaggle : https://www.kaggle.com/AnalyzeBoston/crimes-in-boston#crime.csv
+
+[2] Decision Tree Classifier : http://benalexkeen.com/decision-tree-classifier-in-python-using-scikit-learn/
+
+[3] Python Data Science Handbook: http://shop.oreilly.com/product/0636920034919.do
+
+[4] MIT Open Course ware support Vector Machines : https://www.youtube.com/watch?v=_PwhiWxHK8o
+
+
+
